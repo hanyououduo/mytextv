@@ -1780,6 +1780,11 @@ CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 凤凰资讯高清,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv
 凤凰资讯高清,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
 
+凤凰0908-3,#genre#
+凤凰中文,http://iptvproxy.hxfrock.ggff.net/?url=http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰资讯,http://iptvproxy.hxfrock.ggff.net/?url=http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰香港,http://iptvproxy.hxfrock.ggff.net/?url=http://iptv.4666888.xyz/iptv.php?id=20065
+
 山西吕梁联通JD0908,#genre#
 CCTV1-综合,http://118.77.155.9:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://118.77.155.9:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1829,6 +1834,7 @@ CCTV15-音乐,http://118.77.155.9:9901/tsfile/live/0015_1.m3u8?key=txiptv&playli
 社会与法,http://118.77.155.9:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 孝义电视台,http://118.77.155.9:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 黄河电视台,http://118.77.155.9:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
