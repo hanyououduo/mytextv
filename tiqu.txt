@@ -36,25 +36,6 @@ CCTV15-音乐,http://120.3.219.121:9901/tsfile/live/0015_1.m3u8?key=txiptv
 武术世界,http://120.3.219.121:9901/tsfile/live/1003_1.m3u8?key=txiptv
 风云剧场,http://120.3.219.121:9901/tsfile/live/1006_1.m3u8?key=txiptv
 
-恩山咪咕央视,#genre#
-CCTV1,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv1
-CCTV2,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv2
-CCTV3,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv3
-CCTV4,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv4
-CCTV5,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv5
-CCTV5+,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv5p
-CCTV6,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv6
-CCTV7,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv7
-CCTV8,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv8
-CCTV9,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv9
-CCTV10,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv10
-CCTV11,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv11
-CCTV12,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv12
-CCTV13,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv13
-CCTV14,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv14
-CCTV15,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv15
-CCTV17,http://tongda.jiayinkeji.xin/migunew/migubei3.php?id=cctv17
-
 黑龙江移动IPV6,#genre#
 CCTV-1综合频道,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1综合频道,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -625,15 +606,6 @@ CCTV15-音乐,http://118.77.114.99:9901/tsfile/live/0015_1.m3u8?key=txiptv&playl
 社会与法,http://118.77.114.99:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 孝义电视台,http://118.77.114.99:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 黄河电视台,http://118.77.114.99:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-
-凤凰中文,#genre#
-凤凰中文,http://171.213.210.215:8686/udp/239.93.1.9:2192
-凤凰中文,https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8
-凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰中文,http://198.16.100.186:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83
 
 邢台联通JD,#genre#
 CCTV1-综合,http://110.241.198.64:9901/tsfile/live/0001_1.m3u8?key=txiptv
@@ -1302,10 +1274,26 @@ CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
 兵团卫视,http://api.kkitv.itv888.cn:8080/hls/nbzfa7gljzp/index.m3u8
 康巴卫视,http://api.kkitv.itv888.cn:8080/hls/1gfeb36jeuv/index.m3u8
 
-石家庄JD-0905,#genre#
-CCTV1,http://121.29.169.65:7777/udp/239.253.92.83:8012?CCTV8,token=7375646f2fd8c2cdd0aa2cb5f893bd211e4f3553
-CCTV8,http://121.29.169.65:7777/udp/239.253.92.195:6060?token=7375646f1ad8a6358fe79bc4c003819465c9efab
-CCTV5+,http://121.29.169.65:7777/udp/239.253.92.82:8013
+民视新闻0908,#genre#
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8?$1920x1080
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻台_636,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻台_635,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻HD,https://stream1.freetv.fun/327c04d14d84294b71f2f6d67abb2565bc8313d24eb4190dfa2c5e6e5ab1428f.m3u8
 
 
 
