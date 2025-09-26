@@ -14,6 +14,7 @@ CCTV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/1.m3u8
 
 CCTV5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/1.m3u8
 CCTV5,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/1.m3u8
+CCTV5+,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 CCTV5+,https://migu.188766.xyz/?migutoken=22b257c7fa63ba5d4fac7d061b4868b9&id=CCTV5p&type=yy
 CCTV5+,http://1.180.2.93:9901/tsfile/live/1027_1.m3u8?key=txiptv
 CCTV6,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225741/1.m3u8
@@ -25,6 +26,7 @@ CCTV7,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226137/1.m3u8
 
 CCTV8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225736/1.m3u8
 CCTV8,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/1.m3u8
+CCTV9,http://111.63.117.13:6060/030000001000/G_CCTV-9/G_CCTV-9.m3u8
 CCTV9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225743/1.m3u8
 CCTV10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/1.m3u8
@@ -701,4 +703,5 @@ JStar三级片,http://iptv.4666888.xyz/iptv.php?id=20159
 平湖民生,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+
 
