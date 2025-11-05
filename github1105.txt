@@ -5,10 +5,10 @@ CCTV2,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226122/index.m3u8?
 CCTV3,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226165/index.m3u8?
 CCTV4,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226124/index.m3u8?
 CCTV5,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226146/index.m3u8?
-CCTV-5+,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV5+,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 CCTV5+,http://m.061899.xyz/mg/cctv5p
 CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p 
-CCTV-5+,http://go.bkpcp.top/mg/cctv5p 
+CCTV5+,http://go.bkpcp.top/mg/cctv5p 
 CCTV5+ ,http://111.221.137.155:44330/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV6,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226148/index.m3u8?
 CCTV7,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226143/index.m3u8?
@@ -16,7 +16,7 @@ CCTV8,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226167/index.m3u8?
 CCTV9,http://m.061899.xyz/mg/cctv9
 CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9 
 CCTV9,http://go.bkpcp.top/mg/cctv9 
-CCTV9 ,http://111.221.137.155:44330/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV9,http://111.221.137.155:44330/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV10,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226169/index.m3u8?
 CCTV11,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226145/index.m3u8?
 CCTV12,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226126/index.m3u8?
@@ -447,4 +447,5 @@ CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 睛彩竞技,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
+
 
