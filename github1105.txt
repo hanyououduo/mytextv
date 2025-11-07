@@ -6,6 +6,7 @@ CCTV3,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226165/index.m3u8?
 CCTV4,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226124/index.m3u8?
 CCTV5,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226146/index.m3u8?
 CCTV5+,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
+CCTV5+,http://8.138.7.223/tv/dl/hucc.php?id=6
 CCTV5+,http://m.061899.xyz/mg/cctv5p
 CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p 
 CCTV5+,http://go.bkpcp.top/mg/cctv5p 
@@ -908,5 +909,6 @@ CHC家庭影院,http://8.138.7.223/tv/dl/hucc.php?id=48
 山东教育,http://8.138.7.223/tv/dl/hucc.php?id=50
 探索频道,http://8.138.7.223/tv/dl/hucc.php?id=51
 国家地理频道,http://8.138.7.223/tv/dl/hucc.php?id=52
+
 
 
