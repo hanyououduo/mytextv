@@ -83,6 +83,7 @@ CGTN英语,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226016/index.m3u8?
 睛彩竞技,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226116/index.m3u8?
 睛彩篮球,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226118/index.m3u8?
 睛彩广场舞,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226139/index.m3u8?
+睛彩青少,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225684/index.m3u8?
 CCTV5,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226146/index.m3u8?
 CCTV-5+,http://111.63.117.13:6060/030000001000/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
 
@@ -1056,3 +1057,4 @@ CETV4,http://iptv.666230.xyz/iptv/sxg.php/CETV-4H264_2000
 三台一套,http://iptv.666230.xyz/iptv/sxg.php/stxwHD_2000
 高县一套,http://iptv.666230.xyz/iptv/sxg.php/gxt_2000
 峨眉山综合,http://iptv.666230.xyz/iptv/sxg.php/emsxw_2000
+
