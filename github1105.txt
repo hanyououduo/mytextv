@@ -136,7 +136,7 @@ BESTV赛事10,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226123/index.m3u8?
 央卫频道,#genre#
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://219.146.65.78:59902/tsfile/live/0150_1.m3u8
-
+1,http://116.130.221.45:2380/rtp/239.255.2.2:8000
 凤凰中文,http://m.061899.xyz/mg/fhzw
 凤凰资讯,http://m.061899.xyz/mg/fhzx
 凤凰香港,http://m.061899.xyz/mg/fhhk
@@ -946,3 +946,4 @@ CGTN纪录 576,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/888888
 CCTV中视购物 720,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
 北京家有购物 720,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226996/1.m3u8
 北京家有购物 720,http://116.130.221.45:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226343/1.m3u8
+
