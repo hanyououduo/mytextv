@@ -28,6 +28,15 @@ CCTV16,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226120/index.m3u8?
 CETV1,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225775/index.m3u8?
 CETV4,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226153/index.m3u8?
 
+凤凰频道,#genre#
+凤凰资讯,http://223.113.152.137:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
+凤凰卫视,http://223.113.152.137:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
+凤凰香港,http://223.113.152.137:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
+凤凰资讯,http://111.62.54.136:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228524/1.m3u8
+凤凰卫视,http://111.62.54.136:23800/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228527/1.m3u8
+凤凰香港,http://111.62.54.136:2380/tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237/PLTV/3/224/3221228530/1.m3u8
+
+
 卫视频道,#genre#
 北京卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225724/index.m3u8?
 天津卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225742/index.m3u8?
@@ -1533,5 +1542,6 @@ GITV72,http://111.62.54.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-73
 GITV73,http://111.62.54.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-74/GITV-JS-74.m3u8
 GITV74,http://111.62.54.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-75/GITV-JS-75.m3u8
 GITV75,http://111.62.54.138:2380/js-live-screenshot.gitv.tv/gitv_live/GITV-JS-76/GITV-JS-76.m3u8
+
 
 
