@@ -136,7 +136,6 @@ BESTV赛事10,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226123/index.m3u8?
 央卫频道,#genre#
 重温经典,http://8.138.7.223/tv/cwjd.php
 重温经典,http://219.146.65.78:59902/tsfile/live/0150_1.m3u8
-1,http://116.130.221.45:2380/rtp/239.255.2.2:8000
 凤凰中文,http://m.061899.xyz/mg/fhzw
 凤凰资讯,http://m.061899.xyz/mg/fhzx
 凤凰香港,http://m.061899.xyz/mg/fhhk
@@ -206,7 +205,7 @@ CCTV17,http://m.061899.xyz/mg/cctv17
 东方纪实,http://m.061899.xyz/mg/xjs
 
 
-央视卫视1105,#genre#
+央视卫视,#genre#
 CCTV1综合,https://live.chinacert.cftest5.cn/mg/?id=608807420
 CCTV2财经,https://live.chinacert.cftest5.cn/mg/?id=631780532
 CCTV3综艺,https://live.chinacert.cftest5.cn/mg/?id=624878271
@@ -324,6 +323,7 @@ CETV4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 经典动画大集合,https://live.chinacert.cftest5.cn/mg/?id=629942219
 中学生,https://live.chinacert.cftest5.cn/mg/?id=708869532
 江苏教育,https://live.chinacert.cftest5.cn/mg/?id=628008321
+
 
 
 
