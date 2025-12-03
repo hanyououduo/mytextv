@@ -29,6 +29,8 @@ CETV1,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225775/index.m3u8?
 CETV4,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226153/index.m3u8?
 
 卫视频道,#genre#
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 北京卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225724/index.m3u8?
 天津卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225742/index.m3u8?
 河北卫视,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226107/index.m3u8?
@@ -465,6 +467,7 @@ CETV4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 经典动画大集合,https://live.chinacert.cftest5.cn/mg/?id=629942219
 中学生,https://live.chinacert.cftest5.cn/mg/?id=708869532
 江苏教育,https://live.chinacert.cftest5.cn/mg/?id=628008321
+
 
 
 
