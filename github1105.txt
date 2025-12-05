@@ -146,6 +146,33 @@ BESTV赛事8,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221225671/index.m3u8?
 BESTV赛事9,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226102/index.m3u8?
 BESTV赛事10,http://[2409:8087:1e02:20::1a]/PLTV/11/224/3221226123/index.m3u8?
 
+河北频道,#genre#
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1893427200&k=590149d139a9820d4a4e5c89383199b1
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=1893427200&k=f736eea4cdc99f067c97c69a7396be1b
+河北卫视, rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=1893427200&k=a506c8d43f703d63d6bb975547f06d57
+河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=1893427200&k=ad907331c90d847d7e7ae51764d8a09a
+河北经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.flv?t=1893427200&k=08553b9afbefe2ed6051bae727b823e1
+河北经济生活,rtmp://tv.pull.hebtv.com/jishi/jingjishenghuo?t=1893427200&k=14c7ff6621323d895cc8017d04663364
+河北三农,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1893427200&k=f07ae1d5be12d118d136be90e032bfce
+河北三农,http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=1893427200&k=b1279c7829bc691886e411a3a1ad3878
+河北三农,rtmp://tv.pull.hebtv.com/jishi/nongminpindao?t=1893427200&k=34029249a3f638eda45a4b1682424eb4
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=1893427200&k=49867ab5d80a7564abaf8ee18868992f
+河北都市,http://tv.pull.hebtv.com/jishi/dushipindao.flv?t=1893427200&k=5bdd87a50dca9d85e09f09db5ad54a8f
+河北都市,rtmp://tv.pull.hebtv.com/jishi/dushipindao?t=1893427200&k=d8281856d736a6728f3303939d6509b2
+河北影视剧,http://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1893427200&k=2bbbb53c494c02c044ed8805c541df4e
+河北影视剧,ttp://tv.pull.hebtv.com/jishi/yingshijupindao.flv?t=1893427200&k=f1e1b5a402bb7e693fa616561e8e1a6a
+河北影视剧,rtmp://tv.pull.hebtv.com/jishi/yingshijupindao?t=1893427200&k=4d75c777b203a334013b6416f26176ff
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1893427200&k=d4a455b288ebbc0f53903f4750372b0f
+河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=1893427200&k=6aec9182a1fcab091bc95e70260a48c1
+河北少儿科教,rtmp://tv.pull.hebtv.com/jishi/shaoerkejiao?t=1893427200&k=1d6ceb101baa934e376dfdd6c2d732f0
+河北文旅公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=1893427200&k=0b0e2c7cf0820ad8b22ae063511c4104
+河北文旅公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.flv?t=1893427200&k=aba466631fe65a3eb88883321a2e8b53
+河北文旅公共,rtmp://tv.pull.hebtv.com/jishi/gonggongpindao?t=1893427200&k=0ea29f688d8730f0ea72c7e8520c76b8
+河北三佳购物,http://tv.pull.hebtv.com/jishi/sanjiagouwu.m3u8?t=1893427200&k=6bd4aeba4f185e4918a1408e970f4064
+河北三佳购物,http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=1893427200&k=a538e2635614a0ce3487b764d26300d6
+河北三佳购物,rtmp://tv.pull.hebtv.com/jishi/sanjiagouwu?t=1893427200&k=6517ddd806ed049b64de8a4252f90467
+
+
 上海移动,#genre#
 CCTV1,http://[2409:8087:1e02:20::1a]/000000001000/5000000010000030810/index.m3u8
 CCTV1,http://[2409:8087:1e02:20::1a]/000000001000/6000000001000029752/index.m3u8
@@ -477,6 +504,7 @@ CETV4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 经典动画大集合,https://live.chinacert.cftest5.cn/mg/?id=629942219
 中学生,https://live.chinacert.cftest5.cn/mg/?id=708869532
 江苏教育,https://live.chinacert.cftest5.cn/mg/?id=628008321
+
 
 
 
