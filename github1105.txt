@@ -22,6 +22,26 @@ CCTV17,http://192.168.31.5:8080/migu720p.php?id=673168256
 凤凰资讯,http://192.168.31.5:8080/凤凰秀.php?id=fhzw
 凤凰香港,http://192.168.31.5:8080/凤凰秀.php?id=fhhk
 
+河北地区,#genre#
+河北卫视,https://tv.sohu.blog/d/hebtv.php?id=hbws
+河北卫视,https://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
+河北经济生活,https://tv.sohu.blog/d/hebtv.php?id=hbjjsh
+河北三农,https://tv.sohu.blog/d/hebtv.php?id=hbsn
+河北都市,https://tv.sohu.blog/d/hebtv.php?id=hbds
+河北影视剧,https://tv.sohu.blog/d/hebtv.php?id=hbysj
+河北少儿科教,https://tv.sohu.blog/d/hebtv.php?id=hbse
+河北文旅公共,https://tv.sohu.blog/d/hebtv.php?id=hbwl
+河北三佳购物,https://tv.sohu.blog/d/hebtv.php?id=hbgw
+河北4K频道,https://event.pull.hebtv.com/live/live101.m3u8
+河北五超频道,https://event.pull.hebtv.com/live/live103.m3u8
+石家庄新闻综合,https://tv.sohu.blog/d/hebsjz.php?id=4
+石家庄城市服务,https://tv.sohu.blog/d/hebsjz.php?id=5
+石家庄文化娱乐,https://tv.sohu.blog/d/hebsjz.php?id=6
+鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
+鹿泉2套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
+新乐综合频道,https://jwcdnqx.hebyun.com.cn/live/XLTV/1500k/tzwj_video.m3u8
+
+
 河北联通IPTV,#genre#
 河北卫视高清,http://60.4.28.159:4000/rtp/239.253.92.154:6011
 河北经济生活高清,http://60.4.28.159:4000/rtp/239.253.92.171:6001
@@ -803,6 +823,7 @@ CETV4,https://live.chinacert.cftest5.cn/mg/?id=923287339
 经典动画大集合,https://live.chinacert.cftest5.cn/mg/?id=629942219
 中学生,https://live.chinacert.cftest5.cn/mg/?id=708869532
 江苏教育,https://live.chinacert.cftest5.cn/mg/?id=628008321
+
 
 
 
