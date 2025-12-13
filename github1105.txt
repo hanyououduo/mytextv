@@ -251,7 +251,7 @@ CGTN,https://play.kankanlive.com/live/1698423645566913.m3u8
 石家庄城市,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=5
 石家庄娱乐,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=6
 
-CCTV,,#genre#
+CCTV,#genre#
 CCTV1,https://192.168.31.5:8080/ys.php?id=cctv1
 CCTV2,https://192.168.31.5:8080/ys.php?id=cctv2
 CCTV4,https://192.168.31.5:8080/ys.php?id=cctv4
@@ -274,6 +274,7 @@ CCTV4K,https://192.168.31.5:8080/ys.php?id=cctv4k
 河北少儿科教,http://192.168.31.5:8080/hb.php?id=sekj
 河北公共,http://192.168.31.5:8080/hb.php?id=hbgg
 河北三佳购物,http://192.168.31.5:8080/hb.php?id=sjgw
+
 
 
 
