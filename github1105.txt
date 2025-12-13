@@ -275,7 +275,14 @@ CCTV4K,https://192.168.31.5:8080/ys.php?id=cctv4k
 河北公共,http://192.168.31.5:8080/hb.php?id=hbgg
 河北三佳购物,http://192.168.31.5:8080/hb.php?id=sjgw
 
-
+杭州,#genre#
+杭州综合,http://192.168.31.5:8080/杭州.php?id=hzzh
+西湖明珠,http://192.168.31.5:8080/杭州.php?id=hzmz
+杭州生活,http://192.168.31.5:8080/杭州.php?id=hzsh
+杭州影视,http://192.168.31.5:8080/杭州.php?id=hzys
+青少体育,http://192.168.31.5:8080/杭州.php?id=hzqsty
+杭州导视,http://192.168.31.5:8080/杭州.php?id=hzds
+富阳新闻综合,http://192.168.31.5:8080/杭州.php?id=fyxwzh
 
 
 
