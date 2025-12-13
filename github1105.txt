@@ -263,7 +263,17 @@ CCTV13,https://192.168.31.5:8080/ys.php?id=cctv13
 CCTV17,https://192.168.31.5:8080/ys.php?id=cctv17
 CCTV4K,https://192.168.31.5:8080/ys.php?id=cctv4k
 
-
+河北台1,#genre#
+河北卫视,http://192.168.31.5:8080/hb.php?id=hbws
+河北综合,http://192.168.31.5:8080/hb.php?id=hbhszh
+河北少儿科教,http://192.168.31.5:8080/hb.php?id=hbhskj
+经济生活,http://192.168.31.5:8080/hb.php?id=jjsh
+河北三农频道,http://192.168.31.5:8080/hb.php?id=snpd
+河北都市,http://192.168.31.5:8080/hb.php?id=hbds
+河北影视剧,http://192.168.31.5:8080/hb.php?id=hbys
+河北少儿科教,http://192.168.31.5:8080/hb.php?id=sekj
+河北公共,http://192.168.31.5:8080/hb.php?id=hbgg
+河北三佳购物,http://192.168.31.5:8080/hb.php?id=sjgw
 
 
 
