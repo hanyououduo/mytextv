@@ -305,7 +305,25 @@ CCTV17,http://192.168.31.5:8080/bingcha.php?id=cctv17
 CCTV4欧洲,http://192.168.31.5:8080/bingcha.php?id=cctv4o
 CCTV4美洲,http://192.168.31.5:8080/bingcha.php?id=cctv4a
 
-
+bstv,#genre#
+CCTV-1HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/111128@BESTV.SMG.SMG
+CCTV-2HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/5000036@BESTV.SMG.SMG
+CCTV-3HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/1369028@BESTV.SMG.SMG
+CCTV-4HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/1349@BESTV.SMG.SMG
+CCTV-5HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/1369029@BESTV.SMG.SMG
+CCTV-6HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/1369030@BESTV.SMG.SMG
+CCTV-7HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/1352@BESTV.SMG.SMG
+CCTV-8HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/1369033@BESTV.SMG.SMG
+CCTV-9HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/5000039@BESTV.SMG.SMG
+CCTV-10HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/3949784@BESTV.SMG.SMG
+CCTV-11HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/6000053@BESTV.SMG.SMG
+CCTV-12HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/5000040@BESTV.SMG.SMG
+CCTV-新闻HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/6000054@BESTV.SMG.SMG
+CCTV-少儿HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/3949788@BESTV.SMG.SMG
+CCTV-音乐HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/6000055@BESTV.SMG.SMG
+CCTV-16HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/6000061@BESTV.SMG.SMG
+CCTV-17HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/5000041@BESTV.SMG.SMG
+CCTV-5+HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/6000068@BESTV.SMG.SMG
 
 
 
