@@ -248,31 +248,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 杭州导视,http://192.168.31.5:8080/杭州.php?id=hzds
 富阳新闻综合,http://192.168.31.5:8080/杭州.php?id=fyxwzh
 
-测试,#genre#
-CCTV-1,http://www.qfly9236.cn:8888/rtp/239.255.2.2:8000
-CCTV-2,http://www.qfly9236.cn:8888/rtp/239.255.2.3:8006
-CCTV-3,http://www.qfly9236.cn:8888/rtp/239.255.3.83:7996
-CCTV-4,http://www.qfly9236.cn:8888/rtp/239.255.2.5:8018
-CCTV-5,http://www.qfly9236.cn:8888/rtp/239.255.3.84:7992
-CCTV-6,http://www.qfly9236.cn:8888/rtp/239.255.3.85:7988
-CCTV-7,http://www.qfly9236.cn:8888/rtp/239.255.2.8:8036
-CCTV-8,http://www.qfly9236.cn:8888/rtp/239.255.3.86:7984
-CCTV-9,http://www.qfly9236.cn:8888/rtp/239.255.2.10:8048
-CCTV-10,http://www.qfly9236.cn:8888/rtp/239.255.2.11:8054
-CCTV-11,http://www.qfly9236.cn:8888/rtp/239.255.3.34:9694
-CCTV-12,http://www.qfly9236.cn:8888/rtp/239.255.2.13:8066
-CCTV-13,http://www.qfly9236.cn:8888/rtp/239.255.2.14:8072
-CCTV-14,http://www.qfly9236.cn:8888/rtp/239.255.2.15:8078
-CCTV-15,http://www.qfly9236.cn:8888/rtp/239.255.3.35:9700
-CCTV-16,http://www.qfly9236.cn:8888/rtp/239.255.2.112:8660
-CCTV-17,http://www.qfly9236.cn:8888/rtp/239.255.3.36:9706
-
-
-
-
-
-
-
 
 
 
