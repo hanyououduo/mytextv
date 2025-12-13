@@ -133,6 +133,57 @@ SiTV游戏风云,http://[2409:8087:1e01:23::10]:8112/000000001000/50000000110000
 凤凰资讯,http://192.168.31.5:8080/凤凰秀.php?id=fhzw
 凤凰香港,http://192.168.31.5:8080/凤凰秀.php?id=fhhk
 
+央视卫视,#genre#
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CGTN,http://iptv.huuc.edu.cn/hls/cgtnhd.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
+
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京体育,http://iptv.huuc.edu.cn/hls/btv6hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+广东卫视,http://iptv.huuc.edu.cn/hls/gdhd.m3u8
+天津卫视,http://iptv.huuc.edu.cn/hls/tjhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+金鹰纪实,http://iptv.huuc.edu.cn/hls/gedocu.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+
+
 河北频道,#genre#
 河北卫视,https://tv.sohu.blog/d/hebtv.php?id=hbws
 河北卫视,https://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
@@ -167,7 +218,7 @@ CCTV15,https://play.kankanlive.com/live/1698423607826914.m3u8
 CCTV17,https://play.kankanlive.com/live/1698423272597921.m3u8
 CGTN,https://play.kankanlive.com/live/1698423645566913.m3u8
 
-河北台1,#genre#
+河北台,#genre#
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1893427200&k=590149d139a9820d4a4e5c89383199b1
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.flv?t=1893427200&k=f736eea4cdc99f067c97c69a7396be1b
 河北卫视, rtmp://tv.pull.hebtv.com/jishi/weishipindao?t=1893427200&k=a506c8d43f703d63d6bb975547f06d57
@@ -192,21 +243,25 @@ CGTN,https://play.kankanlive.com/live/1698423645566913.m3u8
 河北三佳购物,http://tv.pull.hebtv.com/jishi/sanjiagouwu.m3u8?t=1893427200&k=6bd4aeba4f185e4918a1408e970f4064
 河北三佳购物,http://tv.pull.hebtv.com/jishi/sanjiagouwu.flv?t=1893427200&k=a538e2635614a0ce3487b764d26300d6
 河北三佳购物,rtmp://tv.pull.hebtv.com/jishi/sanjiagouwu?t=1893427200&k=6517ddd806ed049b64de8a4252f90467
+石家庄新闻,http://www.qfly9236.cn:8888/rtp/239.253.92.149:6035
+石家庄娱乐,http://www.qfly9236.cn:8888/rtp/239.253.92.93:8120
+石家庄城市,http://www.qfly9236.cn:8888/rtp/239.253.92.94:8121
+石家庄都市,http://www.qfly9236.cn:8888/rtp/239.253.92.95:8122
+石家庄新闻,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=4
+石家庄城市,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=5
+石家庄娱乐,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=6
 
-河北台2,#genre#
-河北卫视,http://192.168.31.5:8080/hb.php?id=hbws
-河北综合,http://192.168.31.5:8080/hb.php?id=hbhszh
-河北少儿科教,http://192.168.31.5:8080/hb.php?id=hbhskj
-经济生活,http://192.168.31.5:8080/hb.php?id=jjsh
-河北三农频道,http://192.168.31.5:8080/hb.php?id=snpd
-河北都市,http://192.168.31.5:8080/hb.php?id=hbds
-河北影视剧,http://192.168.31.5:8080/hb.php?id=hbys
-河北少儿科教,http://192.168.31.5:8080/hb.php?id=sekj
-河北公共,http://192.168.31.5:8080/hb.php?id=hbgg
-河北三佳购物,http://192.168.31.5:8080/hb.php?id=sjgw
-
-
-
+CCTV,,#genre#
+CCTV1,https://192.168.31.5:8080/ys.php?id=cctv1
+CCTV2,https://192.168.31.5:8080/ys.php?id=cctv2
+CCTV4,https://192.168.31.5:8080/ys.php?id=cctv4
+CCTV7,https://192.168.31.5:8080/ys.php?id=cctv7
+CCTV9,https://192.168.31.5:8080/ys.php?id=cctv9
+CCTV10,https://192.168.31.5:8080/ys.php?id=cctv10
+CCTV12,https://192.168.31.5:8080/ys.php?id=cctv12
+CCTV13,https://192.168.31.5:8080/ys.php?id=cctv13
+CCTV17,https://192.168.31.5:8080/ys.php?id=cctv17
+CCTV4K,https://192.168.31.5:8080/ys.php?id=cctv4k
 
 
 
