@@ -326,7 +326,15 @@ CCTV-17HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/5000041@BESTV.S
 CCTV-5+HD,http://192.168.31.5:8080/bstv.php?r=1&t=3&id=Umai:CHAN/6000068@BESTV.SMG.SMG
 
 
-
+上海台,#genre#
+上海东方卫视,http://192.168.31.5:8080/bestv_live.php?id=dfws
+上海新闻综合,http://192.168.31.5:8080/bestv_live.php?id=xwzh
+上海新纪实,http://192.168.31.5:8080/bestv_live.php?id=xjs
+上海魔都眼,http://192.168.31.5:8080/bestv_live.php?id=mdy
+上海乐游频道,http://192.168.31.5:8080/bestv_live.php?id=lypd
+上海第一财经,http://192.168.31.5:8080/bestv_live.php?id=dycj
+上海都市频道,http://192.168.31.5:8080/bestv_live.php?id=dspd
+上海五星体育,http://192.168.31.5:8080/bestv_live.php?id=wxty
 
 
 
