@@ -6,7 +6,11 @@ CCTV7国防军事,http://192.168.31.5:8080/ysp.php?id=cctv7
 CCTV9纪录,http://192.168.31.5:8080/ysp.php?id=cctv9
 CCTV10科教,http://192.168.31.5:8080/ysp.php?id=cctv10
 
-
+宁波,#genre#
+宁波民生休闲,http://192.168.31.5:8080/ningboTV.php?id=nbtv1
+宁波新闻综合,http://192.168.31.5:8080/ningboTV.php?id=nbtv2
+宁波影视娱乐,http://192.168.31.5:8080/ningboTV.php?id=nbtv3
+宁波经济生活,http://192.168.31.5:8080/ningboTV.php?id=nbtv4
 
 咪咕原,#genre#
 CCTV1综合,http://192.168.31.5:8080/migu.php?id=608807420
@@ -6484,6 +6488,7 @@ IPTV相声小品,http://yp.qqqtv.top/1/api.php?id=IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8
 IPTV相声小品,http://yp.qqqtv.top/1/api.php?id=IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81&auth=666858
 精彩影视,http://yp.qqqtv.top/1/api.php?id=%E7%B2%BE%E5%BD%A9%E5%BD%B1%E8%A7%86&auth=666858
 中经电视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%AD%E7%BB%8F%E7%94%B5%E8%A7%86&auth=666858
+
 
 
 
