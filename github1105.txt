@@ -184,6 +184,45 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 河北卫视,http://iptv.huuc.edu.cn/hls/hebhd.m3u8
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 
+央卫频道,#genre#
+CCTV1咪咕,http://go.bkpcp.top/mg/cctv1 
+CCTV2咪咕,http://go.bkpcp.top/mg/cctv2 
+CCTV3咪咕,http://go.bkpcp.top/mg/cctv3 
+CCTV4咪咕,http://go.bkpcp.top/mg/cctv4 
+CCTV5咪咕,http://go.bkpcp.top/mg/cctv5 
+CCTV-5+咪咕,http://go.bkpcp.top/mg/cctv5p 
+CCTV6咪咕,http://go.bkpcp.top/mg/cctv6 
+CCTV7咪咕,http://go.bkpcp.top/mg/cctv7 
+CCTV8咪咕,http://go.bkpcp.top/mg/cctv8 
+CCTV9咪咕,http://go.bkpcp.top/mg/cctv9 
+CCTV10咪咕,http://go.bkpcp.top/mg/cctv10 
+CCTV11咪咕,http://go.bkpcp.top/mg/cctv11 
+CCTV12咪咕,http://go.bkpcp.top/mg/cctv12 
+CCTV13咪咕,http://go.bkpcp.top/mg/cctv13 
+CCTV14咪咕,http://go.bkpcp.top/mg/cctv14 
+CCTV15咪咕,http://go.bkpcp.top/mg/cctv15 
+CCTV16咪咕,http://go.bkpcp.top/mg/cctv16 
+CCTV17咪咕,http://go.bkpcp.top/mg/cctv17 
+cct4欧洲咪咕,http://go.bkpcp.top/mg/cctv4o 
+cct4美洲咪咕,http://go.bkpcp.top/mg/cctv4m 
+CGTN-西咪咕,http://go.bkpcp.top/mg/cgtne 
+CGTN-阿咪咕,http://go.bkpcp.top/mg/cgtna 
+CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf 
+北京卫视咪咕,http://go.bkpcp.top/mg/bjws 
+东方卫视咪咕,http://go.bkpcp.top/mg/dfws 
+浙江卫视咪咕,http://go.bkpcp.top/mg/zjws 
+江苏卫视咪咕,http://go.bkpcp.top/mg/jsws 
+湖南卫视咪咕,http://go.bkpcp.top/mg/hunws 
+广东卫视咪咕,http://go.bkpcp.top/mg/gdws 
+深圳卫视咪4k,http://go.bkpcp.top/mg/szws 
+山东卫视咪咕,http://go.bkpcp.top/mg/sdws 
+河南卫视咪咕,http://go.bkpcp.top/mg/hnws 
+江西卫视咪咕,http://go.bkpcp.top/mg/jxws 
+湖北卫视咪咕,http://go.bkpcp.top/mg/hubws 
+海南卫视咪咕,http://go.bkpcp.top/mg/hinws
+陕西卫视咪咕,http://go.bkpcp.top/mg/sxws 
+兵团卫视咪咕,http://go.bkpcp.top/mg/btws 
+黑龙江视咪咕,http://go.bkpcp.top/mg/hljws
 
 河北频道,#genre#
 河北卫视,https://tv.sohu.blog/d/hebtv.php?id=hbws
@@ -247,6 +286,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 青少体育,http://192.168.31.5:8080/杭州.php?id=hzqsty
 杭州导视,http://192.168.31.5:8080/杭州.php?id=hzds
 富阳新闻综合,http://192.168.31.5:8080/杭州.php?id=fyxwzh
+
 
 
 
