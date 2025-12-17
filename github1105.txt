@@ -3,6 +3,23 @@
 凤凰资讯,http://192.168.31.5:8080/凤凰秀.php?id=fhzw
 凤凰香港,http://192.168.31.5:8080/凤凰秀.php?id=fhhk
 
+中央台,#genre#
+cctv1,https://www.wmviv.com/iptv/bc2t.php?id=cctv1
+cctv2,https://www.wmviv.com/iptv/bc2t.php?id=cctv2
+cctv3,https://www.wmviv.com/iptv/bc2t.php?id=cctv3
+cctv4,https://www.wmviv.com/iptv/bc2t.php?id=cctv4
+cctv5,https://www.wmviv.com/iptv/bc2t.php?id=cctv5
+cctv5+,https://www.wmviv.com/iptv/bc2t.php?id=cctv5p
+cctv6,https://www.wmviv.com/iptv/bc2t.php?id=cctv6
+cctv7,https://www.wmviv.com/iptv/bc2t.php?id=cctv7
+cctv8,https://www.wmviv.com/iptv/bc2t.php?id=cctv8
+cctv9,https://www.wmviv.com/iptv/bc2t.php?id=cctv9
+cctv10,https://www.wmviv.com/iptv/bc2t.php?id=cctv10
+cctv11,https://www.wmviv.com/iptv/bc2t.php?id=cctv11
+cctv12,https://www.wmviv.com/iptv/bc2t.php?id=cctv12
+cctv13,https://www.wmviv.com/iptv/bc2t.php?id=cctv13
+
+
 央视卫视,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
@@ -194,6 +211,7 @@ CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
 石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
 石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
 石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
+
 
 
 
