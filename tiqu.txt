@@ -1,3 +1,89 @@
+重庆,#genre#
+重庆新闻, http://192.168.31.5:8080/cbg.php
+山西,#genre#
+山西卫视, http://192.168.31.5:8080/sxtv.php?id=ws
+黄河电视台, http://192.168.31.5:8080/sxtv.php?id=hh
+山西经济与科技, http://192.168.31.5:8080/sxtv.php?id=jj
+山西影视, http://192.168.31.5:8080/sxtv.php?id=ys
+山西社会与法治, http://192.168.31.5:8080/sxtv.php?id=fz
+山西文体生活, http://192.168.31.5:8080/sxtv.php?id=wt
+太原-1, http://192.168.31.5:8080/sxtv.php?id=ty
+朔州-1, http://192.168.31.5:8080/sxtv.php?id=sz
+忻州综合, http://192.168.31.5:8080/sxtv.php?id=xz
+阳泉新闻综合, http://192.168.31.5:8080/sxtv.php?id=yq
+大同-1, http://192.168.31.5:8080/sxtv.php?id=dt
+吕梁-1, http://192.168.31.5:8080/sxtv.php?id=ll
+晋中综合, http://192.168.31.5:8080/sxtv.php?id=jz
+长治-1, http://192.168.31.5:8080/sxtv.php?id=cz
+晋城新闻综合, http://192.168.31.5:8080/sxtv.php?id=jc
+临汾-1, http://192.168.31.5:8080/sxtv.php?id=lf
+运城-1, http://192.168.31.5:8080/sxtv.php?id=yc
+
+深圳,#genre#
+深圳卫视4K,http://192.168.31.5:8080.com/sztv1.php?id=szws4k
+深圳卫视,http://192.168.31.5:8080.com/sztv1.php?id=szws
+深圳财经,http://192.168.31.5:8080.com/sztv1.php?id=szcj
+深圳少儿,http://192.168.31.5:8080.com/sztv1.php?id=szse
+深圳电视剧,http://192.168.31.5:8080.com/sztv1.php?id=szdsj
+深圳都市,http://192.168.31.5:8080.com/sztv1.php?id=szds
+深圳国际,http://192.168.31.5:8080.com/sztv1.php?id=sztvgj
+宜和购物,http://192.168.31.5:8080.com/sztv1.php?id=yhgw
+移动频道,http://192.168.31.5:8080.com/sztv1.php?id=ydpd
+
+
+
+
+内蒙古,#genre#
+内蒙古卫视, http://192.168.31.5:8080/neimenggu.php?id=254
+新闻综合, http://192.168.31.5:8080/neimenggu.php?id=127
+经济生活, http://192.168.31.5:8080/neimenggu.php?id=128
+少儿频道, http://192.168.31.5:8080/neimenggu.php?id=129
+文体娱乐, http://192.168.31.5:8080/neimenggu.php?id=130
+农牧频道, http://192.168.31.5:8080/neimenggu.php?id=131
+内蒙古蒙古语文化, http://192.168.31.5:8080/neimenggu.php?id=132
+呼和浩特, http://192.168.31.5:8080/neimenggu.php?id=141
+包头, http://192.168.31.5:8080/neimenggu.php?id=168
+乌海, http://192.168.31.5:8080/neimenggu.php?id=165
+赤峰, http://192.168.31.5:8080/neimenggu.php?id=161
+呼伦贝尔, http://192.168.31.5:8080/neimenggu.php?id=166
+兴安盟, http://192.168.31.5:8080/neimenggu.php?id=167
+通辽, http://192.168.31.5:8080/neimenggu.php?id=163
+锡林郭勒, http://192.168.31.5:8080/neimenggu.php?id=156
+乌兰察布, http://192.168.31.5:8080/neimenggu.php?id=164
+鄂尔多斯, http://192.168.31.5:8080/neimenggu.php?id=159
+巴彦淖尔, http://192.168.31.5:8080/neimenggu.php?id=158
+阿拉善, http://192.168.31.5:8080/neimenggu.php?id=157
+
+吉林,#genre#
+吉林卫视,http://192.168.31.5:8080/jjltv.php?id=1531
+都市频道,http://192.168.31.5:8080/jjltv.php?id=1532
+生活频道,http://192.168.31.5:8080/jjltv.php?id=1534
+影视频道,http://192.168.31.5:8080/jjltv.php?id=1535
+乡村频道,http://192.168.31.5:8080/jjltv.php?id=1536
+综艺·文化频道,http://192.168.31.5:8080/jjltv.php?id=1538
+长春综合,http://192.168.31.5:8080/jjltv.php?id=812402
+吉林新闻综合,http://192.168.31.5:8080/jjltv.php?id=812373
+四平新闻综合,http://192.168.31.5:8080/jjltv.php?id=812374
+辽源新闻综合,http://192.168.31.5:8080/jjltv.php?id=812376
+通化新闻综合,http://192.168.31.5:8080/jjltv.php?id=812379
+白山新闻综合,http://192.168.31.5:8080/jjltv.php?id=812383
+白城新闻综合,http://192.168.31.5:8080/jjltv.php?id=812380
+松原新闻综合,http://192.168.31.5:8080/jjltv.php?id=812382
+延边卫视,http://192.168.31.5:8080/jjltv.php?id=812244
+
+
+山东,#genre#
+山东卫视,http://你的域名/iqilu.php?id=sdws
+山东齐鲁,http://你的域名/iqilu.php?id=qlpd
+山东新闻,http://你的域名/iqilu.php?id=xwpd
+山东体育休闲,http://你的域名/iqilu.php?id=tyxx
+山东生活,http://你的域名/iqilu.php?id=shpd
+山东综艺,http://你的域名/iqilu.php?id=zypd
+山东农科,http://你的域名/iqilu.php?id=nkpd
+山东文旅,http://你的域名/iqilu.php?id=wlpd
+山东少儿,http://你的域名/iqilu.php?id=sepd
+
+
 杭州,#genre#
 杭州综合,http://192.168.31.5:8080/杭州.php?id=hzzh
 西湖明珠,http://192.168.31.5:8080/杭州.php?id=hzmz
@@ -6690,6 +6776,7 @@ IPTV相声小品,http://yp.qqqtv.top/1/api.php?id=IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8
 IPTV相声小品,http://yp.qqqtv.top/1/api.php?id=IPTV%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81&auth=666858
 精彩影视,http://yp.qqqtv.top/1/api.php?id=%E7%B2%BE%E5%BD%A9%E5%BD%B1%E8%A7%86&auth=666858
 中经电视,http://yp.qqqtv.top/1/api.php?id=%E4%B8%AD%E7%BB%8F%E7%94%B5%E8%A7%86&auth=666858
+
 
 
 
