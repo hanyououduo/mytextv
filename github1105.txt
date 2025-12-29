@@ -203,6 +203,7 @@ CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
 河北4K频道,https://event.pull.hebtv.com/live/live101.m3u8
 河北五超频道,https://event.pull.hebtv.com/live/live103.m3u8
 
+石家庄台,#genre#
 石家庄新闻,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=4
 石家庄城市,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=5
 石家庄娱乐,http://vapi.91kds.cc/live1/hoge.m3u8?apiKey=73c963d13814ce7d0e4743c5e7d033cc&ip=hesjz&id=6
@@ -258,6 +259,7 @@ CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
 周口新闻综合,http://192.168.31.5:8080/hntv.php?id=zk1
 驻马店新闻综合,http://192.168.31.5:8080/hntv.php?id=zmd1
 济源新闻综合,http://192.168.31.5:8080/hntv.php?id=jy1
+
 
 
 
