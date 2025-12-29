@@ -1,3 +1,15 @@
+深圳台,#genre#
+深圳卫视,http://192.168.31.5:8080/shenzhen.php?channel=深圳卫视
+深圳少儿,http://192.168.31.5:8080/shenzhen.php?channel=深圳少儿
+深圳财经,http://192.168.31.5:8080/shenzhen.php?channel=深圳财经
+深圳电视剧,http://192.168.31.5:8080/shenzhen.php?channel=深圳电视剧
+宜和购物,http://192.168.31.5:8080/shenzhen.php?channel=宜和购物
+深圳都市,http://192.168.31.5:8080/shenzhen.php?channel=深圳都市
+深圳国际,http://192.168.31.5:8080/shenzhen.php?channel=深圳国际
+深圳移动,http://192.168.31.5:8080/shenzhen.php?channel=深圳移动
+深圳卫视4k,http://192.168.31.5:8080/shenzhen.php?channel=深圳卫视4k
+
+
 咪咕央卫,#genre#
 CCTV1,http://192.168.31.5:8080/miguHD-2.php?id=cctv1
 CCTV2,http://192.168.31.5:8080/miguHD-2.php?id=cctv2
@@ -423,6 +435,7 @@ CCTV10科教,http://192.168.31.5:8080/ysp.php?id=cctv10
 咪视界-36-夕颜专用, http://yp.qqqtv.top/bc/bc.php?id=%E5%92%AA%E8%A7%86%E7%95%8C-36-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
 咪视界-37-夕颜专用, http://yp.qqqtv.top/bc/bc.php?id=%E5%92%AA%E8%A7%86%E7%95%8C-37-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
 咪视界-38-夕颜专用, http://yp.qqqtv.top/bc/bc.php?id=%E5%92%AA%E8%A7%86%E7%95%8C-38-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
+
 
 
 
