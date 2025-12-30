@@ -131,18 +131,15 @@ CGTN-法咪咕,http://go.bkpcp.top/mg/cgtnf
 石家庄新闻综合,https://tv.sohu.blog/d/hebsjz.php?id=4
 石家庄城市服务,https://tv.sohu.blog/d/hebsjz.php?id=5
 石家庄文化娱乐,https://tv.sohu.blog/d/hebsjz.php?id=6
-鹿泉综合,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8
-鹿泉2套,https://jwcdnqx.hebyun.com.cn/live/luquaner/1500k/tzwj_video.m3u8
 
+石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
+石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
+石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
 石家庄新闻综合,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&auth=666858
 石家庄文化娱乐,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E6%96%87%E5%8C%96%E5%A8%B1%E4%B9%90&auth=666858
 石家庄城市服务,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9F%8E%E5%B8%82%E6%9C%8D%E5%8A%A1&auth=666858
 石家庄城市服务,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9F%8E%E5%B8%82%E6%9C%8D%E5%8A%A1&auth=666858
 石家庄城市服务,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E5%9F%8E%E5%B8%82%E6%9C%8D%E5%8A%A1&auth=666858
-石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
-石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
-石家庄都市,http://yp.qqqtv.top/1/api.php?id=%E7%9F%B3%E5%AE%B6%E5%BA%84%E9%83%BD%E5%B8%82&auth=666858
-
 
 河南台,#genre#
 河南卫视,http://live1.jzjsnm.cn/live1/henan_sd.m3u8?auth_key=1674384769832-0-0-6abdf45238fea763c626e38cc6c11913
@@ -332,6 +329,7 @@ G60新桥收费口,https://play-a2.quklive.com/live/1732441115629264.m3u8
 崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 上海教育,http://sh.tonytuya.xyz:4022/udp/239.45.0.13:5140
+
 
 
 
