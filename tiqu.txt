@@ -1,3 +1,22 @@
+上海台1230,#genre#
+东方卫视,https://192.168.31.5:8080/shanghai.php?id=dfws
+五星体育,https://192.168.31.5:8080/shanghai.php?id=wxty
+上海第一财经,https://192.168.31.5:8080/shanghai.php?id=dycj
+上海新闻综合,https://192.168.31.5:8080/shanghai.php?id=xwzh
+上海都市频道,https://192.168.31.5:8080/shanghai.php?id=dspd
+新纪实,https://192.168.31.5:8080/shanghai.php?id=xjs
+魔都眼,https://192.168.31.5:8080/shanghai.php?id=mdy
+爱上海,https://192.168.31.5:8080/shanghai.php?id=ash
+上海台2,#genre#
+东方卫视,http://192.168.31.5:8080/shanghai.php?id=dfws
+五星体育,http://192.168.31.5:8080/shanghai.php?id=wxty
+上海第一财经,http://192.168.31.5:8080/shanghai.php?id=dycj
+上海新闻综合,http://192.168.31.5:8080/shanghai.php?id=xwzh
+上海都市频道,http://192.168.31.5:8080/shanghai.php?id=dspd
+新纪实,http://192.168.31.5:8080/shanghai.php?id=xjs
+魔都眼,http://192.168.31.5:8080/shanghai.php?id=mdy
+爱上海,http://192.168.31.5:8080/shanghai.php?id=ash
+
 深圳台,#genre#
 深圳卫视,http://192.168.31.5:8080/shenzhen.php?channel=深圳卫视
 深圳少儿,http://192.168.31.5:8080/shenzhen.php?channel=深圳少儿
@@ -435,6 +454,7 @@ CCTV10科教,http://192.168.31.5:8080/ysp.php?id=cctv10
 咪视界-36-夕颜专用, http://yp.qqqtv.top/bc/bc.php?id=%E5%92%AA%E8%A7%86%E7%95%8C-36-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
 咪视界-37-夕颜专用, http://yp.qqqtv.top/bc/bc.php?id=%E5%92%AA%E8%A7%86%E7%95%8C-37-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
 咪视界-38-夕颜专用, http://yp.qqqtv.top/bc/bc.php?id=%E5%92%AA%E8%A7%86%E7%95%8C-38-%E5%86%B0%E8%8C%B6%E4%B8%93%E7%94%A8&auth=66615415
+
 
 
 
